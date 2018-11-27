@@ -1,5 +1,5 @@
 # sy-test-repository
 
-## First git edit
+## Second git edit
 
 Copyright 2018 Justin Sy
